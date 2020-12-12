@@ -1,0 +1,8 @@
+Debug/
+Release/
+
+Neural/Debug/
+Neural/Release/
+
+.vs/
+Neural/WB.txt
